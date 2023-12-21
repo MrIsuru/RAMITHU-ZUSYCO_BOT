@@ -30,13 +30,12 @@
 
       https://heroku.com/deploy?template=
 
-  comming soon ...<br>
+  <br>
+  
 > DEPLOY ON REPLIT<br>
 
-  comming soon ...<br>
-> DEPLOY ON RAILWAY<br>
-
-  comming soon ...<br>
+[`Deploy Now`](https://replit.com/github/darkmakerofc/ZUSYCO-MD)
+<br><br><br>
 
 </div>
 
