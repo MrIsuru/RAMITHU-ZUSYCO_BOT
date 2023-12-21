@@ -16,9 +16,26 @@
 
   ### Link Bot To Your Whatsapp.
   
- * [`SCAN QR CODE`]()<br>
- * [`USE PAIR CODE`]()
+ * [`SCAN QR CODE`](https://gpt-qr-code.onrender.com/zusyco)<br>
+ * [`USE PAIR CODE`](#)
 
-  #### Upload Creds.json File
-  <i>Upload Your **creds.json** File in to **[sessions](/sessions)** folder.</i>
+  #### Upload QR File
+  <i>Upload Your **ZUSYCO-QR.nima** File </i>
+
+  ### DEPLOY USING YOUR HOST
+  
+> DEPLOY ON HEROKU<br>
+
+  comming soon ...<br>
+> DEPLOY ON REPLIT<br>
+
+  comming soon ...<br>
+> DEPLOY ON RAILWAY<br>
+
+  comming soon ...<br>
+
 </div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+# Author : [@MrNima](https://github.com/darkmakerofc)
