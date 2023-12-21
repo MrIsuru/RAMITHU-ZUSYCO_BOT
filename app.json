@@ -1,0 +1,22 @@
+{
+    "name": "ZUSYCO-MD",
+    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
+    "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
+    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp ZUSYCO-MD Bot"
+    ],
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "standard-1x"
+        }
+    }
+}
