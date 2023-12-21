@@ -1,3 +1,4 @@
 ## English : You Can Change Your alive , welcome , goodbye messages using this files
-[`ALIVE MESSAGE`](/ALIVE_MESSAGE.txt)
+[`ALIVE MESSAGE`](/blob/main/MESSAGES/ALIVE_MESSAGE.txt)
+
 
