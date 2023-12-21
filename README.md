@@ -26,6 +26,10 @@
   
 > DEPLOY ON HEROKU<br>
 
+◍ Copy This Url, Put Like This <template_link><your_github_link>
+
+      https://heroku.com/deploy?template=
+
   comming soon ...<br>
 > DEPLOY ON REPLIT<br>
 
