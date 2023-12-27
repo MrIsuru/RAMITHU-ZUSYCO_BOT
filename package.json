@@ -1,13 +1,19 @@
 {
   "name": "ZUSYCO-MD",
   "version": "1.0.0",
-  "description": "This is whatsapp bot is created by darkmakerofc ( mrnima ) , you can get fast bot expirience from this.",
+  "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "darkmakerofc ( mrnima )",
+  "keywords": [
+    "WhatsApp",
+    "bot",
+    "messaging",
+    "automation",
+    "nodejs"
+  ],
+  "author": "DarkMakerofc (mrnima)",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
@@ -34,5 +40,13 @@
     "yargs": "^17.7.2",
     "yt-search": "^2.10.4",
     "zusyco_module": "^1.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkMakerofc/ZUSYCO-MD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMakerofc/ZUSYCO-MD/issues"
+  },
+  "homepage": "https://github.com/DarkMakerofc/ZUSYCO-MD#readme"
 }
