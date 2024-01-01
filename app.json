@@ -13,6 +13,14 @@
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
     ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "13"
+            }
+        }
+    ],
     "formation": {
         "web": {
             "quantity": 1,
