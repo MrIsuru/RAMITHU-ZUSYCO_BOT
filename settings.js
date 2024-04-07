@@ -52,7 +52,7 @@ module.exports = {
      ONLY_COMMANDS : true,
      STATUS : true,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
